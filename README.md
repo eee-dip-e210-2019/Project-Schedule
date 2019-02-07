@@ -2,7 +2,7 @@
 2019 EEE DIP project
 
 | ID    | Project description                | Leader       | Assignees                |
-| :---: | :---                               | :---:        | :---:                    |
+| :---: | :---                               | :---:        | :---                     |
 | A     | Computer console                   | Wang Kexin   | Liu Zhiheng - Jeremy     |
 | B     | Microcurrent sensor /alter         | Samuel       | Madura                   |
 | C     | LED button lock                    | Tan Jiue Lin | Swee ching, Zhang Siyuan |

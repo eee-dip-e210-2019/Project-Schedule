@@ -7,38 +7,38 @@
 
 ### Tech Related:
 
-- <A> Computer console: 
+- `A` Computer console: 
   - python/java, ras Pi 
   - [web socket]
   - Connect two computers
   - Login for computer
   - [ Algorithm test for remote access ] -- implement based on availability
-- <B> Touch two points to reveal computer in room 1
+- `B` Touch two points to reveal computer in room 1
   - Microcurrent sensor
   - Investigate how to open painting in Room 1
-- <C> LED button lock
+- `C` LED button lock
   - Arduino/ras pi
   - Unlock when all light up
-- <D> Radio which sends MOS code
+- `D` Radio which sends MOS code
   - Frequency domain messaging
   - Prepare MOS code key-map
-- <E> Relocate sofa
+- `E` Relocate sofa
   - Weight detection and send messages to computer
   - [Web backend/ Direct message channel] -- just to send message
   - Show treasure map
 
 ### Material Related:
-- <F> Light reveals fingerprint on multiple papers
+- `F` Light reveals fingerprint on multiple papers
   - Investigation on materials to use
   - Also investigate which material to use for invisible painting in Room 1 to unlock chain
-- <G> RFID card to open different gates
+- `G` RFID card to open different gates
   - Arduino and RFID module
   - Suitable painting or pattern on RFID
 
 ### Scene setup:
-- <H> World Map in Room 1 with aeroplane tickets and other decoration related -- project design and coordination
-- <I> Investigate how to open doors between rooms and coordinate with all mini-projects
-- <J> Product lending/purchasing, document auditing -- logistics and treasury
+- `H` World Map in Room 1 with aeroplane tickets and other decoration related -- project design and coordination
+- `I` Investigate how to open doors between rooms and coordinate with all mini-projects
+- `J` Product lending/purchasing, document auditing -- logistics and treasury
 
 
 ## Project Allocation
@@ -46,7 +46,7 @@
 > updated at 07/02/19
 
 | ID    | Project description                | Leader       | Assignees                |
-| :---: | :---                               | :---:        | :---                     |
+| :---: | :---                               | :---         | :---                     |
 | A     | Computer console                   | Wang Kexin   | Liu Zhiheng - Jeremy     |
 | B     | Microcurrent sensor /alter         | Samuel       | Madura                   |
 | C     | LED button lock                    | Tan Jiue Lin | Swee ching, Zhang Siyuan |

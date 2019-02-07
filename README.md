@@ -47,15 +47,15 @@
 
 | ID    | Project description                | Leader       | Assignees                |
 | :---: | :---                               | :---         | :---                     |
-| A     | Computer console                   | Wang Kexin   | Liu Zhiheng, Jeremy      |
+| A     | Computer console                   | Wang Kexin   | Liu Zhiheng              |
 | B     | Microcurrent sensor /alter         | Samuel       | Madura                   |
 | C     | LED button lock                    | Tan Jiue Lin | Swee ching, Zhang Siyuan |
 | D     | Radio MOS code                     | He Junsen    | Samuel, Zhou Xuwen       |
 | E     | Relocate sofa Weight sensor /alter | Zhang Siyuan | Wang Kexin, Zhou Xuwen   |
-| F     | Light relevant                     | Jeremy       | He Junsen, Zhou Xuwen    |
+| F     | Light relevant                     | Jeremy       | He Junsen                |
 | G     | RFID card                          | Swee ching   | Tan Jiue Lin             |
 | H     | Decoration related                 | Madura       | Wang Kexin               |
-| I     | Door interface related             | Liu Zhiheng  | Tan Jiue Lin, Jeremy     |
+| I     | Door interface related             | Liu Zhiheng  | Tan Jiue Lin             |
 | J     | Logistics and Treasury             | Zhou Xuwen   | He Junsen, Jeremy        |
 
 ## Project prototype
